@@ -3,7 +3,7 @@
 The **Software Development Club** certifies this
 
 ---
-<embed src="../Assets/recabn202507.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://github.com/Software-Development-Club-REC-ABN/SDC-open/blob/main/Assets/recabnsdc202507.pdf" type="application/pdf" width="100%" height="600px" />
 
 ---
 ## Student Details
